@@ -5,7 +5,7 @@
 
 ## Deixe-me apresentar:
 
-Sou formado em **Ciências da Computação** e **Desenvolvimento de Sistemas Web**, atuo efetivamente como desenvolvedor web desde 2020, trabalhando em projetos de pequeno e médio porte, frameworks de ponta para desenvolver aplicações escaláveis e de fácil manutenção.
+Sou formado em **Ciências da Computação** e **Desenvolvimento de Sistemas Web**, atuo efetivamente como desenvolvedor web desde 2020, trabalhando em projetos de pequeno e médio porte, usando frameworks e ferramentas CMS de ponta para desenvolver aplicações escaláveis e de fácil manutenção.
 
 ## 🚀 Ferramentas e tecnologias mais relevantes:
 | Frontend | Backend | Ferramentas | Testes |
@@ -14,17 +14,14 @@ Sou formado em **Ciências da Computação** e **Desenvolvimento de Sistemas Web
 
 ## 💼 Histórico Profissional
 
-### Analista e Desenvolvedor de Sistemas  
-**Tribunal de Justiça do Amapá – Macapá, AP**  
-08/2023 – 08/2025
+### Analista e Desenvolvedor de Sistemas 
+**TJAP** 08/2023 – 08/2025
 
-### Desenvolvedor de Sistemas  
-**Companhia de Transportes e Trânsito de Macapá – Macapá, AP**  
-08/2022 – 08/2023
+### Desenvolvedor de Sistemas 
+**CTMAC** 08/2022 – 08/2023
 
-### Atendimento e Suporte de Informática  
-**Procuradoria da República no Amapá – Macapá, AP**  
-08/2020 – 08/2022
+### Atendimento e Suporte de Informática 
+**PR/AP** 08/2020 – 08/2022
 
 ## 📊 Estatísticas do GitHub
 
@@ -39,5 +36,5 @@ Sou formado em **Ciências da Computação** e **Desenvolvimento de Sistemas Web
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/herminio-gurgel/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
